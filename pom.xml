@@ -13,10 +13,10 @@
 	</parent>
 
 	<groupId>myFiji</groupId>
-	<artifactId>Nucleus_Picker3D</artifactId>
-	<version>0.1.0</version>
+	<artifactId>Nucleus_Annotation_3D</artifactId>
+	<version>0.9</version>
 
-	<name>plugins/Nucleus_Picker3D.jar</name>
+	<name>plugins/Nucleus_Annotation_3D.jar</name>
 	<description>Tool to quickly do a manual identification of nuclei in a z-stack.</description>
 
 	<developers>
